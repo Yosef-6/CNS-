@@ -1,2 +1,2 @@
-# CNS-
-Message Encryption
+# CNS Message Encryption
+
